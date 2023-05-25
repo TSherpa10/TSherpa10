@@ -3,7 +3,7 @@
 some things about me:
  - I am a rising junior computer science major at Rensselaer Polytechnic Institute (RPI)
  - I like to play Nintendo Switch games, explore new food spots, and take photos in my free time.
- - I love to work in a team-setting (I prefer both generalist and specialist-type of work) with friends.
+ - I love to hang out with my friends, whether it be through activities or project-work.
 
 I am also looking for Summer 2024 software engineering internships!
 
@@ -12,6 +12,10 @@ I am also looking for Summer 2024 software engineering internships!
 Personal Email: tashisherpa455@gmail.com
 
 Personal Website: https://tsherpa.netlify.app/
+
+```diff
++ i like quokkas
+```
 
 <!---
 TSherpa10/TSherpa10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
