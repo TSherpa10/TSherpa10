@@ -5,8 +5,6 @@ some things about me:
  - I like to play Nintendo Switch games, explore new food spots, and take photos in my free time.
  - I love to hang out with my friends, whether it be through activities or project-work.
 
-I am also looking for Summer 2024 software engineering internships!
-
 **Contact Info:**
 
 Personal Email: tashisherpa455@gmail.com
