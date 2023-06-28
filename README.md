@@ -12,7 +12,7 @@ Personal Email: tashisherpa455@gmail.com
 Personal Website: https://tsherpa.netlify.app/
 
 ```diff
-+ i like quokkas
+- i like quokkas
 ```
 
 <!---
