@@ -3,7 +3,7 @@
 some things about me:
  - I am a rising junior computer science major at Rensselaer Polytechnic Institute (RPI)
  - I like to play Nintendo Switch games, explore new food spots, and take photos in my free time.
- - I love to hang out with my friends, whether it be through activities or working on projects.
+ - I love playing basketball at watching the NBA (Knicks fan and Lebron stan).
 
 **Contact Info: `(for any reason at all!)`**
 
