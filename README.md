@@ -5,11 +5,9 @@ some things about me:
  - I like to play Nintendo Switch games, explore new food spots, and take photos in my free time.
  - I love to hang out with my friends, whether it be through activities or working on projects.
 
-**Contact Info:**
+**Contact Info: `(for any reason at all!)`**
 
 Personal Email: tashisherpa455@gmail.com
-
-Personal Website: https://tsherpa.netlify.app/
 
 ```diff
 - i like quokkas
