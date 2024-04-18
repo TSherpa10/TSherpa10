@@ -1,13 +1,12 @@
 **Hi, my name is Tashi Sherpa!**
 
-some things about me:
- - I am a junior computer science major at Rensselaer Polytechnic Institute (RPI)
- - I like to play Nintendo Switch games, explore new food spots, and take photos in my free time.
- - I love playing basketball at watching the NBA (Knicks fan and Lebron stan).
+Creator of Brave Summit, a 2d precision-platformer game, made in Godot.
+Leader of ScribeAI, a speech-to-text summarization note-taking tool utilizing OpenAI's Whisper and Huggingface's Transformers (made with the MERN stack).
 
-**Contact Info: `(for any reason at all!)`**
+Rising senior, computer science major at Rensselaer Polytechnic Institute.
+NBA and basketball enthusiast, rock climber, gym enjoyer, video game hobbyist and game developer.
 
-Personal Email: tashisherpa455@gmail.com
+Contact me: tashisherpa455@gmail.com
 
 ```diff
 - i like quokkas
