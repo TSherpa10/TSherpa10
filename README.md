@@ -1,10 +1,10 @@
-**Hi, my name is Tashi Sherpa!**
+### Hi, my name is Tashi Sherpa!
 
-Creator of Brave Summit, a 2d precision-platformer game, made in Godot.
-Leader of ScribeAI, a speech-to-text summarization note-taking tool utilizing OpenAI's Whisper and Huggingface's Transformers (made with the MERN stack).
+#### Creator of Brave Summit, a 2d precision-platformer game, made in Godot.
+#### Leader of ScribeAI, a speech-to-text summarization note-taking tool utilizing OpenAI's Whisper and Huggingface's Transformers (made with the MERN stack).
 
-Rising senior, computer science major at Rensselaer Polytechnic Institute.
-NBA and basketball enthusiast, rock climber, gym enjoyer, video game hobbyist and game developer.
+##### Rising senior, computer science major at Rensselaer Polytechnic Institute.
+##### NBA and basketball enthusiast, rock climber, gym enjoyer, video game hobbyist and game developer.
 
 Contact me: tashisherpa455@gmail.com
 
