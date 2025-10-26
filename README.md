@@ -1,13 +1,9 @@
-### Hi, my name is Tashi Sherpa!
+I make projects for fun!
 
-#### Current OMSCS student @ Georgia Institute of Technology, graduated from Rensselaer Polytechnic Institute (2025, B.S in Computer Science)
-
-##### NBA and basketball enthusiast, rock climber, gym enjoyer, video game hobbyist and game developer.
-
-Contact me: tashisherpa455@gmail.com
+Feel free to check my projects out, thank you :3
 
 ```diff
-- i like quokkas
+- i love quokkas, corgis, and my baby cousins
 ```
 
 ![](https://komarev.com/ghpvc/?username=TSherpa10&color=brightgreen)
